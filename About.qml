@@ -22,7 +22,7 @@ Page {
 
             Column{
                 Label{
-                    text: "Developer - Kuldeep Mann"
+                    text: "Developer - Cubit9 Technologies Ltd."
                     font.pixelSize: AppTheme.menuTextSize
                     color: "black"
                 }
@@ -30,7 +30,7 @@ Page {
 
             Column{
                 Label{
-                    text: "Please do not forget to visit my youtube channel - Itchy Fingers"
+                    text: "We develop. We create. We design."
                     font.pixelSize: AppTheme.menuTextSize/2
                     color: "black"
                 }
@@ -38,7 +38,7 @@ Page {
 
             Column{
                 Label{
-                    text: "https://everythingembedded.blogspot.com/"
+                    text: "https://www.cubit9.com/"
                     font.pixelSize: AppTheme.menuTextSize/2
                     color: "black"
                 }
